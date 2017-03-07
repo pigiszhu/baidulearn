@@ -1,2 +1,0 @@
-# baidulearn
-lesson 1
