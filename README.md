@@ -7,3 +7,5 @@ lesson3
 https://pigiszhu.github.io/baidulearn/lesson3.html
 lesson4
 https://pigiszhu.github.io/baidulearn/lesson4.html
+lesson5
+https://pigiszhu.github.io/baidulearn/lesson5.html
